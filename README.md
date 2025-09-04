@@ -1,12 +1,18 @@
-## Hello 👋
+## Привет 👋
+Здесь вы найдете проекты, где я использую современные технологии и лучшие практики разработки.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🚀 Технологии
+
+- **Python**  
+  - FastAPI, Django, Flask  
+  - AsyncIO, Celery
+  - Postgres, Clickhouse, MongoDB, S3  
+  - Pandas, Polars  
+  - Инструменты: Poetry, UV
+
+- **Go (Golang)**  
+  - net/http, chi
+  - goose, sqlc
+  - Concurrency: goroutines, channels 
